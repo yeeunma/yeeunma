@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Yeeun's%20Github)
 
 ## Associate
-[2023.06 - 2024.02] 명지대학교 정보통신공학과 고급인공지능이론 연구실 학부연구생 (Superial Artificial Intelligence and Theory Lab)
+*[2023.06 - 2024.02] 명지대학교 정보통신공학과 고급인공지능이론 연구실 학부연구생 (Superial Artificial Intelligence and Theory Lab)
 
-[2024.03 - ing] 명지대학교 정보통신공학과 고급인공지능이론 연구실 석사과정 (Superial Artificial Intelligence and Theory Lab)
+*[2024.03 - ing] 명지대학교 정보통신공학과 고급인공지능이론 연구실 석사과정 (Superial Artificial Intelligence and Theory Lab)
 
-## Reserch
-
+## Research
+*
 ## Awards
-
+*
 ## Certification
-
+*ADsP (데이터분석준전문가)
 ## Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
