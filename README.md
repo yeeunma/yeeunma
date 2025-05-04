@@ -1,4 +1,6 @@
-## Hi there 👋
+// Header 코드
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Yeeun's-nl-Github)
+
 
 <!--
 **yeeunma/yeeunma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
