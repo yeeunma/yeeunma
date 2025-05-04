@@ -1,12 +1,27 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Yeeun's%20Github)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+## Associate
+[2023.06 - 2024.02] 명지대학교 정보통신공학과 고급인공지능이론 연구실 학부연구생 (Superial Artificial Intelligence and Theory Lab)
+[2024.03 - ing] 명지대학교 정보통신공학과 고급인공지능이론 연구실 석사과정 (Superial Artificial Intelligence and Theory Lab)
 
+## Reserch
+
+## Awards
+
+## Certification
+
+## Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 
-// Mysql 배지 코드 예시
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+
+## Project
+
+## Contact
+
+
 
 <!--
 **yeeunma/yeeunma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
