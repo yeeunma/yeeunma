@@ -1,5 +1,4 @@
-// Header 코드
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Yeeun's-nl-Github)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Yeeun's%20Github)
 
 
 <!--
