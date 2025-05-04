@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Yeeun's%20Github)
 
-#3776AB
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+
+// Mysql 배지 코드 예시
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+
 <!--
 **yeeunma/yeeunma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
