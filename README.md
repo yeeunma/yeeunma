@@ -2,7 +2,6 @@
 
 ## Associate
 * [2023.06 - 2024.02] 명지대학교 정보통신공학과 고급인공지능이론 연구실 학부연구생 (Superial Artificial Intelligence and Theory Lab)
-
 * [2024.03 - ing] 명지대학교 정보통신공학과 고급인공지능이론 연구실 석사과정 (Superial Artificial Intelligence and Theory Lab)
 
 ## Research
