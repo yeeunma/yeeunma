@@ -9,7 +9,7 @@
 * [2024.03] Federated active learning (f-al): an efficient annotation strategy for federated learning, IEEE Access
 
 ## Awards
-* [2024.06] 연합학습을 위한 액티브러닝 기법, 한국통신학회
+* [2024.06] <우수논문상> 연합학습을 위한 액티브러닝 기법, 한국통신학회
 
 ## Certification
 * ADsP (데이터분석준전문가)
