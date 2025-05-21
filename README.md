@@ -5,9 +5,12 @@
 * [2024.03 - ing] 명지대학교 정보통신공학과 고급인공지능이론 연구실 석사과정 (Superial Artificial Intelligence and Theory Lab)
 
 ## Research
-* 
+* [2024.02] 연합학습을 위한 액티브러닝 기법, 한국통신학회
+* [2024.03] Federated active learning (f-al): an efficient annotation strategy for federated learning, IEEE Access
+
 ## Awards
-* 
+* [2024.06] 연합학습을 위한 액티브러닝 기법, 한국통신학회
+
 ## Certification
 * ADsP (데이터분석준전문가)
 ## Tech Stack
